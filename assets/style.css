@@ -173,3 +173,14 @@ p { margin: 0 0 1em; }
 .report-body thead th, .report-body tr:first-child th { background: var(--navy); color: #fff; }
 .report-body blockquote { border-left: 3px solid var(--pale); margin: 1rem 0; padding-left: 1rem; color: var(--ink-2); }
 @media (max-width: 900px) { .report-layout { grid-template-columns: 1fr; } .report-toc { position: static; max-height: none; border: 1px solid var(--pale); border-radius: 8px; padding: 1rem; } }
+
+/* ---------- source table ---------- */
+.src-tools { display: flex; gap: 0.8rem; align-items: center; flex-wrap: wrap; margin: 1rem 0; }
+.src-tools input, .src-tools select { font: inherit; font-size: 0.95rem; padding: 0.55rem 0.7rem; border: 1px solid var(--pale); border-radius: 6px; }
+.src-tools input { flex: 1; min-width: 240px; }
+.src-wrap { overflow-x: auto; }
+.src-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.src-table th { text-align: left; background: var(--navy); color: #fff; padding: 0.55rem 0.6rem; font-weight: 600; position: sticky; top: 0; }
+.src-table td { border-bottom: 1px solid var(--pale); padding: 0.5rem 0.6rem; vertical-align: top; }
+.src-table td.kid { font-weight: 600; color: var(--navy); white-space: nowrap; }
+.src-table tr:hover td { background: var(--mist); }

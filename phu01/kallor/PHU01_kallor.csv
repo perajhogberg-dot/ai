@@ -1,0 +1,97 @@
+ID,Källa,Kategori,Används i (kapitel),Länk
+K001,"AI-kommissionen, Färdplan för Sverige, SOU 2025:12",Myndighet och offentligt,"4.2, 8.1, 11.2",https://regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2025/02/sou-202512/
+K002,"Anpassningar till AI-förordningen, SOU 2025:101",Myndighet och offentligt,"4.2, 8.6",
+K004,"Regeringen, Sveriges AI-strategi (februari 2026)",Myndighet och offentligt,"4.2, 11.1",
+K005,"Integritetsfrämjande teknik i förvaltningen, SOU 2026:44",Myndighet och offentligt,"4.2, 8.1",
+K009,The Wage Effects of Generative AI (SSRN 5842084),Forskning,4.10,https://ssrn.com/abstract=5842084
+K012,"Frank m.fl., AI-exposed jobs deteriorated before ChatGPT (arXiv 2601.02554)",Forskning,4.4,https://arxiv.org/abs/2601.02554
+K019,"Engberg m.fl., Artificial Intelligence, Hiring and Employment (Ratio WP 380)",Forskning,4.3,https://ideas.repec.org/p/hhs/oruesi/2024_010.html
+K020,"IFN, Exponering mot generativ AI i Sverige (2024)",Forskning,Bilaga C,https://www.nationalekonomi.se/artikel/exponering-mot-generativ-ai-i-sverige-en-kartlaggning/
+K021,"Lodefalk, Löthman, Koch & Engberg, Same Storm, Different Boats (version 2026-09-30)",Forskning,"4.3, bilaga C",
+K022,"Brynjolfsson, Chandar & Chen, Canaries in the Coal Mine (aug 2026)",Forskning,"4.4, bilaga C",
+K023,"Almega, Tre år med AI (2026-05-07)",Företag och bransch,"4.3, bilaga C",https://www.almega.se/2026/05/tre-ar-med-ai-vad-har-hant-med-jobben/
+K026,"Hershbein & Kahn, Do Recessions Accelerate Routine-Biased Technological Change? (NBER w22762)",Forskning,7.4,https://www.nber.org/system/files/working_papers/w22762/w22762.pdf
+K027,"Stanford HAI, The 2025 AI Index Report",Forskning,"8.3, 9.2",https://hai.stanford.edu/ai-index/2025-ai-index-report
+K028,"Epoch AI, LLM inference prices have fallen rapidly but unequally across tasks",Forskning,8.3,https://epoch.ai/data-insights/llm-inference-price-trends
+K039,"Epoch AI, Where Autonomy Works (2026-02-10)",Forskning,8.4,https://epoch.ai/publications/where-autonomy-works-evaluating-robot-capabilities-in-2026
+K040,"Electrek, Musk admits no Optimus robots are doing ‘useful work’ (2026-01-28)",Nyheter och media,8.4,https://electrek.co/2026/01/28/musk-admits-no-optimus-robots-are-doing-useful-work-at-tesla-after-claiming-otherwise/
+K041,"Tech Times, China Ships 90% of Global Units (2026-06-18)",Nyheter och media,8.4,https://www.techtimes.com/articles/318641/20260618/humanoid-robots-china-ships-90-global-units-now-leads-ai-benchmarks.htm
+K043,"MIT Technology Review, The human work behind humanoid robots (2026-02-23)",Nyheter och media,"8.4, 10",https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/
+K051,"Intellectia, The $700 Billion AI Infrastructure Boom (2026)",Nyheter och media,9.3,https://intellectia.ai/blog/ai-infrastructure-investment-boom-2026
+K052,"Bloomberg, AI Demand Begins to Justify Massive Cost of Data-Center Buildout (2026-06-25)",Nyheter och media,"9.3, 10",https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout
+K053–K055,"KPMG, VATCalc, Bloomberg Law om beskattning av AI (maj 2026)",Övrigt,9.4,https://responsibletax.kpmg.com/article/will-robots-pay-tax
+K056,"Riksdagen, interpellation 2025/26:414 Nationell plan för nya datacenter",Myndighet och offentligt,9.6,https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/
+K062,"SCB, Yrkesregistret med yrkesstatistik 2024",Myndighet och offentligt,"2, 5, 6, bilaga B",https://www.scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/utbud-av-arbetskraft/yrkesregistret-med-yrkesstatistik/
+K066,"Humlum & Vestergaard, Still Waters, Rapid Currents (Danmark)",Forskning,"4.4, bilaga C",
+K068,"METR, Time Horizon 1.1 (2026-01-29)",Forskning,"4.7, 8.2",https://metr.org/blog/2026-1-29-time-horizon-1-1/
+K069,"Gupta & Kumar, Agentic AI and Occupational Displacement (arXiv 2604.00186)",Forskning,"4.7, 5.4",https://arxiv.org/pdf/2604.00186
+K080,"UK DSIT, Artificial Intelligence Adoption Research (jan 2026)",Myndighet och offentligt,"4.7, 12.3",
+K081,"Arbetsförmedlingen, Arbetskraftsunderskott och arbetskraft från utlandet (AF Analys 2026:04)",Myndighet och offentligt,"2, 5, 6, 11, bilaga B",https://arbetsformedlingen.se/download/18.2d9eb81c19cfe53923c2a88/arbetskraftsunderskott-och-arbetskraft-fran-utlandet.pdf
+K082,"Arbetsförmedlingen, Bilaga: Tabellunderlag till AF Analys 2026:04",Myndighet och offentligt,"2, 5, 6, 11, bilaga B",
+K083,"Nordström Skans & Sokolow Romin, Strukturomvandlingen och AI, Tillväxtanalys 2026:17",Myndighet och offentligt,"4.3, 11.5",https://www.tillvaxtanalys.se/publikationer/rapport/rapportserien/strukturomvandligenochai.129145.html
+K084,"Hellsten, Khanna, Lodefalk & Yakymovych, The Effects of AI on Jobs: Evidence from an AI Subsidy Program (IZA DP 18267)",Övrigt,4.3,https://www.ai-econlab.com/papers
+K085,"Riksbanken, Penningpolitisk rapport mars 2026, s. 31–34",Myndighet och offentligt,"4.2, 4.3, 8.1",https://www.riksbank.se/globalassets/media/rapporter/ppr/penningpolitiska-rapporter-och-uppdateringar/svenska/2026/penningpolitisk-rapport-mars-2026.pdf
+K096,"Autor m.fl., New Frontiers: The Origins and Content of New Work (NBER w30389)",Övrigt,7.3,
+K097,"Yotzov, Barrero m.fl., Firm Data on AI (NBER w34836)",Övrigt,4.5,
+K106,"Block, Inc., Q4 2025 Shareholder Letter (8-K, Exhibit 99.1)",Myndighet och offentligt,"4.6, bilaga C",https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/d108590dex991.htm
+K113,"SCB, Sveriges befolkning 2025 (statistiknyhet 2026-02-24)",Myndighet och offentligt,2.3,https://www.scb.se/en/finding-statistics/statistics-by-subject-area/population-and-living-conditions/population-composition-and-development/population-statistics/pong/statistical-news/population-statistics-year-2025-publish-1
+K117,"Transportstyrelsen, Automatiserade vägtransporter (regelläge)",Myndighet och offentligt,"8.5, bilaga C",https://www.transportstyrelsen.se/sv/om-oss/det-har-ar-transportstyrelsen/forskning-och-innovation/automatiserade-vagtransporter/
+K118,"Social- och hälsovårdsministeriet (Finland), utredning om dokumentation i social- och hälsovården",Myndighet och offentligt,"6.6, bilaga C",https://stm.fi/sv/-/social-och-halsovardsministeriets-utredning-belyser-problemen-och-utvecklingsbehoven-i-social-och-halsovardspersonalens-arbete-med-dokumenteringen
+K119,"SCB, Sveriges framtida befolkning 2026–2070 (statistiknyhet 2026-04-16)",Myndighet och offentligt,,
+K120,"SCB, Användning av AI i företag 2025 (statistiknyhet 2025-12-11)",Myndighet och offentligt,,
+K121,"SKR, Välfärdens kompetensförsörjning 2023–2033 (2024)",Övrigt,,https://skr.se/download/18.14fb7b721997a8f53f2ac06/1758714323525/Valfardens-kompetensforsorjning.pdf
+K122,"GBD 2021 Fertility and Forecasting Collaborators, Global fertility in 204 countries and territories, 1950–2021, with forecasts to 2100, The Lancet 2024",Forskning,,https://doi.org/10.1016/S0140-6736(24)00550-6
+K123,"Caixin, artikel om Kinas befolkningsstatistik för 2025 (2026-01-19), återger Kinas statistikbyrå",Nyheter och media,,https://caixinglobal.com
+K124,"Kauhanen & Rouvinen, ETLA Working Papers 135 (2026-01-27)",Forskning,,https://etla.fi
+K125,"Baslandze m.fl., AI, Productivity, and the Workforce: Evidence from Corporate Executives (NBER w34984)",Forskning,,https://nber.org/papers/w34984
+K126,"UK Department for Business and Trade, Microsoft 365 Copilot evaluation (aug 2025)",Myndighet och offentligt,,https://assets.publishing.service.gov.uk/media/68adbe409e1cebdd2c96a19d/dbt-microsoft-365-copilot-evaluation.pdf
+K127,"Dillon, Jaffe, Immorlica & Stanton, Shifting Work Patterns with Generative AI (NBER w33795)",Forskning,,https://nber.org/papers/w33795
+K128,"Brynjolfsson, Li & Raymond, Generative AI at Work, Quarterly Journal of Economics 2025 (NBER w31161)",Forskning,,https://nber.org/papers/w31161
+K129,"Liu, Wang & Yu, Världsbanken Policy Research Working Paper 11263",Forskning,,https://documents.worldbank.org
+K130,"Frey & Llanos-Paredes, maskinöversättning och översättares sysselsättning, CEPR VoxEU 2025",Forskning,,https://cepr.org/voxeu
+K131,"Nordhaus, Baumol’s Diseases: A Macroeconomic Perspective (NBER w12218, 2006)",Forskning,,https://nber.org/papers/w12218
+K132,"Autor & Salomons, Is Automation Labor-Displacing? Brookings Papers on Economic Activity, våren 2018",Forskning,,https://brookings.edu
+K133,"David, The Dynamo and the Computer, American Economic Review 80(2), 1990",Forskning,,https://jstor.org
+K134,"Brynjolfsson, Rock & Syverson, The Productivity J-Curve, American Economic Journal: Macroeconomics 13(1), 2021",Forskning,,https://doi.org/10.1257/mac.20180386
+K135,"Klarna, pressmeddelande om AI-assistenten (2024-02-27)",Myndighet och offentligt,,https://prnewswire.com
+K136,"Klarnas vd till Bloomberg om kvalitet och återanställning (maj 2025), återgivet av PYMNTS",Nyheter och media,,https://pymnts.com
+K137,"Pensionsmyndigheten, riktålder och prognos (2026)",Myndighet och offentligt,,https://pensionsmyndigheten.se
+K138,Förordning (EU) 2026/1744 (digital omnibus om AI),Myndighet och offentligt,,https://eur-lex.europa.eu/eli/reg/2026/1744/oj
+K139,Förordning (EU) 2023/1230 om maskiner,Myndighet och offentligt,,https://eur-lex.europa.eu/eli/reg/2023/1230/oj
+K140,"Bain & Company, Technology Report 2026",Företag och bransch,,
+K141,"Google, tillkännagivande om tokenvolym, Q3 2025",Myndighet och offentligt,,https://blog.google
+K142,"Alphabet, Q4 2025 earnings release (8-K, februari 2026), inklusive investeringsplan 2026",Myndighet och offentligt,,https://abc.xyz
+K143,"Nvidia, Q4 och helår räkenskapsåret 2026 (8-K, februari 2026)",Myndighet och offentligt,,https://nvidianews.nvidia.com
+K144,"Data Center Watch, rapporter om lokalt motstånd mot datacenter (2025)",Företag och bransch,,https://datacenterwatch.org
+K145,"William Fry, om CRU:s beslut om anslutning av stora elkunder i Irland (december 2025)",Företag och bransch,,https://williamfry.com
+K146,"Future of Life Institute, Statement on Superintelligence (2025-10-22)",Företag och bransch,,https://superintelligence-statement.org
+K147,"Future of Life Institute, Pause Giant AI Experiments: An Open Letter (2023)",Företag och bransch,,https://futureoflife.org
+K148,"SCB, Kommunalskatter 2026",Myndighet och offentligt,,https://scb.se
+K149,"Skatteverket, Arbetsgivaravgifter 2026",Myndighet och offentligt,,https://skatteverket.se
+K150,"SCB, Genomsnittlig månadslön efter sektor 2025 (lönestrukturstatistik, hela ekonomin)",Myndighet och offentligt,,https://scb.se/hitta-statistik/statistik-efter-amne/arbetsmarknad/loner-och-arbetskostnader/lonestrukturstatistik-hela-ekonomin/pong/tabell-och-diagram/genomsnittlig-manadslon-efter-sektor/
+K151,"Lukac m.fl., randomiserad studie av AI-journalföring vid UCLA, NEJM AI 2025",Forskning,,https://ai.nejm.org
+K152,"Afshar m.fl., AI-journalföring och dokumentationstid, NEJM AI 2025",Forskning,,https://ai.nejm.org
+K153,"Rantz m.fl., Randomized Trial of Intelligent Sensor System for Early Illness Alerts in Senior Housing, JAMDA 2017",Forskning,,https://pubmed.ncbi.nlm.nih.gov/28711423/
+K154,"Presage Care, pragmatisk studie av tidig upptäckt hos äldre i hemtjänst, JMIR 2024",Forskning,,https://jmir.org
+K155,"Västra Nylands välfärdsområde, AI-assisterad dokumentering, pressmeddelande",Myndighet och offentligt,,https://sttinfo.fi/tiedote/72167792
+K156,"Helsingborgs stad, konsekvensbedömning (DPIA) Blink of an AI (2024-09-03)",Myndighet och offentligt,,https://media.helsingborg.se/uploads/networks/4/sites/169/2025/05/dpia-blink-of-an-ai-final-version-240903.docx
+K157,"Kalmar kommun, Projektplan AI tal till text",Myndighet och offentligt,,https://kalmar.se/download/18.7849293319e637899f16c74/1779963190214/Projektplan%20-%20AI%20tal%20till%20text.pdf
+K158,"Tandem Health, kundcase Eslövs kommun",Övrigt,,https://tandemhealth.ai/da/produkt/kundecases/eslov-municipality
+K159,"Evident, AI Index 2025 (banker)",Företag och bransch,,https://evidentinsights.com
+K160,"SKR:s beredning för kompetensförsörjning, Kraftsamling för välfärdens kompetensförsörjning – Action plan med samlat stöd (långversion, 2024)",Övrigt,,
+K162,"LO, Kortare arbetstid – fakta, forskning och förutsättningar (LO:s arbetstidsutredning, slutrapport 2025), ISBN 978-91-566-3752-0",Övrigt,,https://lo.se/media/0sietw54/kortare-arbetstid-fakta-forskning-forutsattningar_25sept2025.pdf
+K163,"Alphabet, Q4 2025 earnings call, vd:s anförande (2026-02-04)",Myndighet och offentligt,,https://blog.google/inside-google/message-ceo/alphabet-earnings-q4-2025/
+K164,"Alphabet, Q3 2025 earnings call (2025-10-29)",Myndighet och offentligt,,https://abc.xyz
+K165,"ABN Amro, pressmeddelande inför Capital Markets Day (2025-11-25)",Övrigt,,https://abnamro.com/en/news/abn-amro-presents-roadmap-for-profitable-growth-and-new-financial-targets
+K166,"Nordea, börsmeddelande om omstruktureringskostnader (2026-03-17)",Övrigt,,https://nordea.com/en/press/2026-03-17/nordea-to-book-restructuring-costs-to-execute-its-2030-strategy-implementation
+K167,"Standard Chartered, meddelande 19 maj 2026 (RNS); Bloomberg 19 maj och Alliance News 20 maj 2026",Nyheter och media,,https://investegate.co.uk
+K168,"JPMorgan Chase, investerardag 19 maj 2025, återgivet av Business Insider och eFinancialCareers",Nyheter och media,,https://businessinsider.com
+K169,"Swedbank, besparingsprogram 2026, återgivet av Dagens PS (med hänvisning till SVT och ERR)",Nyheter och media,,https://dagensps.se/bors-finans/swedbank-skar-ned-i-baltikum-ai-hotar-fler-jobb/
+K170,"Morgan Stanley, personalminskning mars 2026, återgivet av Invezz (Reuters, Wall Street Journal)",Nyheter och media,,https://invezz.com
+K171,"Bloomberg Intelligence, enkät till IT-chefer vid 93 banker (januari 2025), återgiven av bl.a. Entrepreneur och Finextra",Övrigt,,https://entrepreneur.com
+K172,"Ingeniøren, Danish banks lay off thousands of workers: AI revolution or just spin? (11 juni 2026)",Nyheter och media,,https://ing.dk/artikel/danish-banks-lay-thousands-workers-ai-revolution-or-just-spin
+K173,"Indiens regering, beslut om IndiaAI Mission (mars 2024), budget 10 371,92 crore rupier",Myndighet och offentligt,,https://narendramodi.in
+K174,"Riksdagen, Statens budget 2026 – Rambeslutet (bet. 2025/26:FiU1)",Myndighet och offentligt,,https://riksdagen.se/sv/dokument-och-lagar/dokument/_hd01fiu1/
+K175,"Riksbanken, årsgenomsnittskurser 2025 (valutakurser till deklarationen)",Myndighet och offentligt,,https://riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/
+K176,"IBISWorld, Global Car & Automobile Manufacturing (april 2025)",Företag och bransch,,https://ibisworld.com/global/market-research-reports/global-car-automobile-manufacturing-industry
+K177,"Skatteverket, Skatteavdrag för månadslön 2026, tabell 32 (SKVFS 2025:20)",Övrigt,,https://skatteverket.se/download/18.1522bf3f19aea8075ba61b/1765290451072/allmanna-tabeller-manad-tabell-32.pdf
