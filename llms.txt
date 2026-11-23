@@ -2,14 +2,14 @@
 
 > Utredningar och analyser av Per Högberg. Varje utredning redovisar antaganden öppet och skiljer på fakta, beräkningar, scenarier och slutsatser.
 
-## PHU01 – AI:s påverkan på arbetskraften (version 2.2, 2026-11-19)
+## PHU01 – AI:s påverkan på arbetskraften (version 2.3, 2026-11-23, DOI 10.5281/zenodo.24467642)
 
 - [Sammanfattning och nyckeltal](https://perhogberg.se/phu01/): kort översikt på svenska
 - [Hela rapporten, svenska (HTML)](https://perhogberg.se/phu01/rapport/): originalet som webbsida
-- [Hela rapporten, svenska (Markdown)](https://perhogberg.se/phu01/PHU01_v2.2_sv.md): textversion för AI-verktyg
+- [Hela rapporten, svenska (Markdown)](https://perhogberg.se/phu01/PHU01_v2.3_sv.md): textversion för AI-verktyg
 - [Full report, English (HTML)](https://perhogberg.se/phu01/report/): English translation
-- [Full report, English (Markdown)](https://perhogberg.se/phu01/PHU01_v2.2_en.md): text version for AI tools
-- [PDF, svenska](https://perhogberg.se/phu01/filer/AI_paverkan_pa_arbetskraften_PHU01_v2.2_UTGIVEN.pdf): utgiven originalversion
+- [Full report, English (Markdown)](https://perhogberg.se/phu01/PHU01_v2.3_en.md): text version for AI tools
+- [PDF, svenska](https://perhogberg.se/phu01/filer/AI_paverkan_pa_arbetskraften_PHU01_v2.3_UTGIVEN.pdf): utgiven originalversion
 
 ## Om
 

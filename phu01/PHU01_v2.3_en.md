@@ -1,25 +1,51 @@
 # AI's Impact on the Workforce (PHU01)
 
-Investigation by Per Högberg. English translation of version 2.2 (published 2026-11-19). Permanent address: https://perhogberg.se/phu01/
+Investigation by Per Högberg. English translation of version 2.3 (published 2026-11-23). DOI 10.5281/zenodo.24467642. Permanent address: https://perhogberg.se/phu01/
 Text version for browsers and AI tools. Figures are available in the HTML version at https://perhogberg.se/phu01/report/. The Swedish original prevails.
 
 ---
 
-**UNABRIDGED ENGLISH TRANSLATION — VERSION 2.2**
+
+
+**UNABRIDGED ENGLISH TRANSLATION — VERSION 2.3**
 
 **AI's Impact on the Workforce – PHU01**
 
 An investigation into how agentic AI could affect the need for labour in Sweden through 2035
 
-Per Högberg, Chairman of the Municipal Executive Board, Mullsjö Municipality, Sweden
+Per Högberg, Chairman of the Municipal Executive Board, Mullsjö Municipality, Sweden, 2023–2026
 
-PHU01, Per Högberg Investigation no. 01
+PHU01 · Analysis by Per Högberg
 
-**Illustrated edition — version 2.2 (translation)**
+**Illustrated edition — version 2.3 (translation)**
 
-*This is a complete, unabridged English translation of the Swedish-language report “AI:s påverkan på arbetskraften – PHU01”, version 2.2 (UTGIVEN / published), 19 November 2026. All figures, tables and conclusions are translated as-is from the Swedish original; none have been recalculated. Figures 1, 2, 11, 12 and 29, which carry the main findings, have been redrawn with English labels using the same values as the Swedish original. The remaining figures retain their Swedish-language labels; their captions below are translated and describe their content in full.*
+*This is a complete, unabridged English translation of the Swedish-language report “AI:s påverkan på arbetskraften – PHU01”, version 2.3 (UTGIVEN / published), 23 November 2026. All figures, tables and conclusions are translated as-is from the Swedish original; none have been recalculated. Figures 1, 2, 11, 12 and 29, which carry the main findings, are shown with English labels and the same values as the Swedish original. The remaining figures retain their Swedish-language labels; their captions below are translated and describe their content in full.*
 
-**PUBLISHED, version 2.2, 2026-11-19 (Swedish original); English translation produced 2026-11-19.**
+**PUBLISHED, version 2.3, 2026-11-23 (Swedish original and English translation).**
+
+perhogberg.se/phu01 · DOI 10.5281/zenodo.24467642
+
+# **About this investigation**
+
+| **Item**          | **Details**                                                                                                                         |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Author            | Per Högberg                                                                                                                         |
+| Role              | Chairman of the Municipal Executive Board, Mullsjö Municipality, Sweden, 2023–2026                                                  |
+| Commission        | Own initiative. Not commissioned by any authority or organisation (section 0.1)                                                     |
+| Funding           | The author's company C-Business, from earlier revenue. No external funding (section 0.3)                                            |
+| AI support        | Produced with Claude models from Anthropic. All assumptions and conclusions are the author's (section 0.2)                          |
+| Method            | Scenario study, not a forecast. Assumptions justified in appendix C, sources listed in appendix D                                   |
+| Interests         | Declared in the section Interests and conflicts of interest                                                                         |
+| Version           | 2.3, 2026-11-23. Supersedes 2.2 (2026-11-19). The Swedish original prevails                                                         |
+| Permanent address | perhogberg.se/phu01                                                                                                                 |
+| DOI               | 10.5281/zenodo.24467642                                                                                                             |
+| Cite as           | Högberg, P. (2026). AI's Impact on the Workforce (PHU01, version 2.3, English translation). https://doi.org/10.5281/zenodo.24467642 |
+
+**Version history**
+
+2.3 (2026-11-23): new graphic profile (cover, Fira Sans typeface and method marking in figures 1, 2, 11, 12 and 29), information block, permanent address and DOI. Corrections: the author's role in SKR's committee (section on interests), the role as chairman of the municipal executive board given with years, references to a forthcoming investigation removed (sections 0.3 and 6.6), the segment values in figure 12 corrected to match table 6.2 (they differed by 1–3 people) and a note on rounding added. No calculations or results have changed.
+
+2.2 (2026-11-19): first published version.
 
 # **Contents**
 
@@ -103,7 +129,7 @@ Conclusion. The question is not whether AI can free up enough labour capacity in
 
 ## **0.1 About the investigation**
 
-The investigation was produced by Per Högberg, chairman of the municipal executive board of Mullsjö Municipality, on his own initiative during the period June–November 2026. It has not been commissioned by any authority or organisation. The investigation was completed around the time the author visited Canada in late October 2026, to gain further international perspectives and input. Its purpose is to provide a basis for how workforce supply can be planned when labour is not sufficient, and what role AI can play.
+The investigation was produced by Per Högberg, chairman of the municipal executive board of Mullsjö Municipality 2023–2026, on his own initiative during the period June–November 2026. It has not been commissioned by any authority or organisation. The investigation was completed around the time the author visited Canada in late October 2026, to gain further international perspectives and input. Its purpose is to provide a basis for how workforce supply can be planned when labour is not sufficient, and what role AI can play.
 
 ## **0.2 How AI has been used in the work**
 
@@ -119,7 +145,7 @@ Per Högberg has been chairman of the municipal executive board of Mullsjö Muni
 
 Since 2007, Per's private company C-Business (Collaborative Business Sweden AB) has been a platform for carrying out initiatives such as this investigation. The company has not received funding for carrying out this investigation; funding has instead come from earlier income from other operations. Through his engagement as an industry researcher at Jönköping University, School of Engineering, since 2006, information modelling has been a main area of focus. When AI, and agentic AI in particular, emerged, the focus shifted to how it could be used to fundamentally change various functions in society, through integrated data sharing to optimise work processes.
 
-Per sits on the Advisory Board of the School of Health and Welfare at Jönköping University (JU), where the focus today is on how research can help reduce the volume of care needed through improved public health. (Described in more detail in the forthcoming investigation PHU02 – The development of elderly care.)
+Per sits on the Advisory Board of the School of Health and Welfare at Jönköping University (JU), where the focus today is on how research can help reduce the volume of care needed through improved public health.
 
 During 2025 and early 2026, Per Högberg produced a series of vision documents, referred to here as “Visionen”, on how operations in the municipal sector can be developed with the support of agentic AI. The series comprises a shared base platform (“Basplattan”) and deep dives into administration and citizen contact, elderly care and schools (Appendix F). The work gave a concrete picture of what is technically possible in municipal operations and is part of the background to this investigation.
 
@@ -127,7 +153,7 @@ During 2025 and early 2026, Per Högberg produced a series of vision documents, 
 
 - Per Högberg was chairman of the municipal executive board in Mullsjö 2023–2026, a municipality with substantial need for fundamentally changed ways of working, through increased public health for all residents, to support and strengthen the economy in order to establish long-term sustainability of municipal services.
 
-- Per Högberg is a member of the Swedish Association of Local Authorities and Regions' (SKR) standing committee on workforce supply (kompetensförsörjning). In the committee's work, the question of AI's impact on workforce supply has been discussed, and it has been established that there is a lack of investigations and calculations of it. This is one of the origins of this investigation (chapter 1). The committee has produced the action plan “Kraftsamling för välfärdens kompetensförsörjning” (2024, K160), which the investigation refers to in chapters 1 and 11.2. The investigation has not been commissioned by SKR and does not express SKR's or the committee's position.
+- Per Högberg takes part in the Swedish Association of Local Authorities and Regions' (SKR) standing committee on workforce supply (kompetensförsörjning). In the committee's work, the question of AI's impact on workforce supply has been discussed, and it has been established that there is a lack of investigations and calculations of it. This is one of the origins of this investigation (chapter 1). The committee has produced the action plan “Kraftsamling för välfärdens kompetensförsörjning” (2024, K160), which the investigation refers to in chapters 1 and 11.2. The investigation has not been commissioned by SKR and does not express SKR's or the committee's position.
 
 - Per is a board member of SAPSA (the Swedish SAP User Association) and represents SAPSA in SUGEN (SAP User Group Executive Network), where companies' strategic use of agentic AI around the world is a focus area.
 
@@ -165,7 +191,7 @@ The idea for this investigation grew during 2025–2026, when there appeared to 
 
 The background is the “Visionen” series described in section 0.3. That work showed what is technically possible, but not how large the effect would be on the need for labour. That question is the starting point for this investigation.
 
-The investigation is also an initiative to contribute to the answer to the difficult question that, among others, the Swedish Association of Local Authorities and Regions' (SKR) standing committee on workforce supply, of which Per Högberg is a member, is working on: how is tomorrow's workforce supply to be solved? In its action plan “Kraftsamling för välfärdens kompetensförsörjning” (2024), the committee identified health-promoting factors, full-time work and a longer working life, and early transition, as the areas with the greatest effect (K160). At the committee's retreat in spring 2026, the impact of AI on workforce supply was discussed. The conclusion was that there is a lack of investigations and calculations of this, and that it would be valuable if such an investigation existed, since it could show what awaits Sweden. This is one of the origins of this investigation.
+The investigation is also an initiative to contribute to the answer to the difficult question that, among others, the Swedish Association of Local Authorities and Regions' (SKR) standing committee on workforce supply, in which Per Högberg takes part, is working on: how is tomorrow's workforce supply to be solved? In its action plan “Kraftsamling för välfärdens kompetensförsörjning” (2024), the committee identified health-promoting factors, full-time work and a longer working life, and early transition, as the areas with the greatest effect (K160). At the committee's retreat in spring 2026, the impact of AI on workforce supply was discussed. The conclusion was that there is a lack of investigations and calculations of this, and that it would be valuable if such an investigation existed, since it could show what awaits Sweden. This is one of the origins of this investigation.
 
 There are no simple answers to tomorrow's workforce supply, since moving people between occupations does not fully resolve the shortfall visible today. The answer being sought is rather: “through changed working methods, fewer people are needed to do what needs to be done”.
 
@@ -688,7 +714,7 @@ Table 6.2 shows the result for the entire labour market. Each row is explained i
 
 **Figure 12.** Where the freed-up capacity goes under the three scenarios.
 
-*Source: Own calculation (table 6.2).*
+*Source: Own calculation (table 6.2). Totals may differ by a few people due to rounding per occupational group.*
 
 Two measures of what remains are reported. National surplus (261,000, 595,000, 921,000) assumes everyone freed up can move to where the shortfall is. Freed up in groups with no remaining shortfall (309,000, 597,000, 921,000) assumes no one moves. The difference is largest in Low, where part of the shortfall remains in care at the same time as there is a surplus in other occupations. It is this remaining shortfall that makes occupational mobility a central question in Low.
 
@@ -853,7 +879,7 @@ A higher assumption for care reduces the remaining shortfall in Low from around 
 
 The author's decision is to retain the 10/20/25% assumption. The controlled studies of documentation support support a low level, and the effect of analysis and early detection on staffing need has not yet been measured.
 
-**Two different effects in care.** AI can affect care in two ways, and only one is included in the calculation. The first is that the same care can be delivered with less labour input, when documentation, planning and compilation are handled by AI. This is the effect the 10/20/25% percentage refers to. The second is that the actual need for care may fall, when continuously collected values are analysed and decline is detected early (section 3.2). This effect is not included, since it cannot be converted into staffing with today's evidence. The investigation thus describes analysis as AI's greatest power but calculates only the smaller part. If the second effect materialises, the care shortfall is smaller than AF's calculation, and the investigation's result for care is cautious. The effects around care need are described in the forthcoming investigation PHU02, which together with this investigation should give a more complete picture.
+**Two different effects in care.** AI can affect care in two ways, and only one is included in the calculation. The first is that the same care can be delivered with less labour input, when documentation, planning and compilation are handled by AI. This is the effect the 10/20/25% percentage refers to. The second is that the actual need for care may fall, when continuously collected values are analysed and decline is detected early (section 3.2). This effect is not included, since it cannot be converted into staffing with today's evidence. The investigation thus describes analysis as AI's greatest power but calculates only the smaller part. If the second effect materialises, the care shortfall is smaller than AF's calculation, and the investigation's result for care is cautious. The effects around care need are not included in this investigation and need to be investigated separately.
 
 
 

@@ -1,25 +1,93 @@
 # AI:s påverkan på arbetskraften (PHU01)
 
-Utredning av Per Högberg. Version 2.2, utgiven 2026-11-19. Permanent adress: https://perhogberg.se/phu01/
+Utredning av Per Högberg. Version 2.3, utgiven 2026-11-23. DOI 10.5281/zenodo.24467642. Permanent adress: https://perhogberg.se/phu01/
 Detta är en textversion av den utgivna rapporten för läsning i webbläsare och AI-verktyg. Den svenska PDF:en är originalet.
 
 ---
 
-<img src="https://perhogberg.se/phu01/rapport/media/image1.png" style="width:2.6in;height:0.86667in" />
+<img src="https://perhogberg.se/phu01/rapport/media/image1.png" style="width:4.2in;height:1.4in" />
 
 **AI:s påverkan på arbetskraften – PHU01**
 
 En utredning om hur agentisk AI kan påverka behovet av arbetskraft i Sverige till 2035
 
-Per Högberg, kommunstyrelsens ordförande i Mullsjö kommun
+Per Högberg, kommunstyrelsens ordförande i Mullsjö kommun 2023–2026
 
-PHU01, Per Högberg Utredning nummer 01
+PHU01 · Analyser av Per Högberg
 
-**Illustrerad utgåva – version 2.2**
+**Illustrerad utgåva – version 2.3**
 
 <img src="https://perhogberg.se/phu01/rapport/media/image2.png" style="width:6.2in;height:2.81806in" />
 
-**UTGIVEN, version 2.2, 2026-11-19.**
+**UTGIVEN, version 2.3, 2026-11-23.**
+
+perhogberg.se/phu01 · DOI 10.5281/zenodo.24467642
+
+# Om utredningen
+
+|                      |                                                                                                                  |
+|:---------------------|:-----------------------------------------------------------------------------------------------------------------|
+| **Författare**       | Per Högberg                                                                                                      |
+| **Roll**             | Kommunstyrelsens ordförande i Mullsjö kommun 2023–2026                                                           |
+| **Uppdrag**          | Eget initiativ. Inte beställd av någon myndighet eller organisation (avsnitt 0.1)                                |
+| **Finansiering**     | Författarens bolag C-Business, med intäkter från tidigare verksamhet. Ingen extern finansiering (avsnitt 0.3)    |
+| **AI-stöd**          | Framtagen med Claude-modeller från Anthropic. Alla antaganden och slutsatser är utredarens (avsnitt 0.2)         |
+| **Metod**            | Scenarioutredning, inte prognos. Antaganden motiveras i bilaga C, källor redovisas i bilaga D                    |
+| **Intressen**        | Redovisas i avsnittet Intressen och jäv                                                                          |
+| **Version**          | 2.3, 2026-11-23. Ersätter 2.2 (2026-11-19)                                                                       |
+| **Permanent adress** | perhogberg.se/phu01                                                                                              |
+| **DOI**              | 10.5281/zenodo.24467642                                                                                          |
+| **Citera som**       | Högberg, P. (2026). AI:s påverkan på arbetskraften (PHU01, version 2.3). https://doi.org/10.5281/zenodo.24467642 |
+
+**Versionshistorik**
+
+2.3 (2026-11-23): ny grafisk profil (omslag, typsnitt Fira Sans och metodmarkering i figur 1, 2, 11, 12 och 29), trovärdighetsblock, permanent adress och DOI. Rättelser: utredarens roll i SKR:s beredning (avsnittet Intressen och jäv), rollen som kommunstyrelsens ordförande anges med år, hänvisningar till kommande utredning borttagna (avsnitt 0.3 och 6.6), i figur 12 är staplarnas delvärden rättade så att de stämmer med tabell 6.2 (de avvek med 1–3 personer) och en not om avrundning är tillagd. Inga beräkningar eller resultat är ändrade.
+
+2.2 (2026-11-19): första utgivna versionen.
+
+# Innehåll
+
+- Sammanfattning
+
+- 0\. Förord, bakgrund och läsanvisning
+
+- 1\. Inledning (Per Högberg)
+
+- 2\. Arbetskraftens volym och behov 2025–2035
+
+- 3\. Begrepp och evidensprinciper
+
+- 4\. Vad empirin visar
+
+- 5\. Metod: så är scenarierna beräknade
+
+- 6\. Resultat
+
+- 7\. Kompensation och volymeffekter
+
+- 8\. Förutsättningar och begränsande faktorer
+
+- 9\. Värdefångst, finansiering och skattebas
+
+- 10\. Identifierade men ej värderade problem
+
+- 11\. Handlingsalternativ
+
+- 12\. Uppföljning och omprövning
+
+- 13\. Avslutande syntes
+
+- Bilaga A. Typtabell och placering av yrkesgrupper
+
+- Bilaga B. Resultat per yrkesgrupp (SSYK 2-siffrig och 3-siffrig)
+
+- Bilaga C. Motivering per påverkanstyp
+
+- Bilaga D. Källförteckning
+
+- Bilaga E. Ordlista
+
+- Bilaga F. Visionen – utredarens konceptuella bakgrundsmaterial (2025–2026)
 
 # Sammanfattning
 
@@ -59,7 +127,7 @@ Slutsats. Frågan är inte om AI kan frigöra tillräckligt med arbetskapacitet 
 
 ## 0.1 Om utredningen
 
-Utredningen är framtagen av Per Högberg, kommunstyrelsens ordförande i Mullsjö kommun, på eget initiativ under perioden juni–november 2026. Den har inte beställts av någon myndighet eller organisation. Utredningen är färdigställd i samband med att författaren besöker Kanada i slutet av oktober 2026, för att få fler internationella perspektiv och avstämningar. Syftet är att ge ett underlag för hur kompetensförsörjningen kan planeras när arbetskraften inte räcker till, och vilken roll AI kan spela.
+Utredningen är framtagen av Per Högberg, kommunstyrelsens ordförande i Mullsjö kommun 2023–2026, på eget initiativ under perioden juni–november 2026. Den har inte beställts av någon myndighet eller organisation. Utredningen är färdigställd i samband med att författaren besöker Kanada i slutet av oktober 2026, för att få fler internationella perspektiv och avstämningar. Syftet är att ge ett underlag för hur kompetensförsörjningen kan planeras när arbetskraften inte räcker till, och vilken roll AI kan spela.
 
 ## 0.2 Hur AI har använts i arbetet
 
@@ -73,15 +141,15 @@ Anthropic är självt en part i den utveckling som utredningen beskriver. Utredn
 
 Per Högberg har under perioden 2023–2026 varit kommunstyrelsens ordförande i Mullsjö kommun. Dessförinnan arbetade Per inom IT-sektorn 2007–2023 med fokus på verksamhetsutveckling inom IT-stödd verksamhet i olika delar av världen. Sedan 1998 har Per varit engagerad i arbete med affärssystemet SAP, och har sedan 2007 deltagit i det nätverk vars start Per också ledde, SUGEN (SAP User Group Executive Network), en internationell samling av oberoende föreningar för företag och organisationer som använder världens största affärssystem, SAP. Inom ramen för SUGEN har flera initiativ och löpande ansvar haft fokus på hur verksamhets- och processutveckling kan stödjas genom integrerade system där data kan analyseras på bredden för att användas på olika sätt.  
 Sedan 2007 har Pers privata bolag C-Business (Collaborative Business Sweden AB) varit en plattform för att kunna genomföra olika initiativ likt denna utredning. Bolaget har inte tagit emot finansiering för genomförande av denna utredning, utan finansieringen har skett genom tidigare intäkter från annan verksamhet. Genom engagemang som industriforskare vid Jönköping University, Tekniska Högskolan, sedan 2006 har främst informationsmodellering varit ett huvudområde. När AI, och främst agentisk AI, kom har fokus legat på hur det kan användas för att i grunden förändra olika funktioner i samhället, genom integrerad datadelning för att optimera arbetsprocesser.  
-Per ingår i Hälsohögskolans Advisory Board vid JU, där fokus i dag ligger på hur forskningen kan bidra till att minska volymbehovet av vård och omsorg genom förbättrad social hälsa. (Beskrivs närmare i den kommande utredningen PHU02 – Äldreomsorgens utveckling.)
+Per ingår i Hälsohögskolans Advisory Board vid JU, där fokus i dag ligger på hur forskningen kan bidra till att minska volymbehovet av vård och omsorg genom förbättrad social hälsa.
 
 Under 2025 och början av 2026 tog Per Högberg fram en serie visionsdokument, här kallade Visionen, om hur verksamheter i kommunsektorn kan utvecklas med stöd av agentisk AI. Serien omfattar en gemensam grundplattform (Basplattan) och fördjupningar för administration och medborgarkontakt, äldreomsorg och skola (bilaga F). Arbetet gav en konkret bild av vad som tekniskt kan vara möjligt i kommunal verksamhet och är en del av bakgrunden till denna utredning.
 
 ## Intressen och jäv
 
-- Per Högberg är Kommunstyrelsens ordförande i Mullsjö 2023-2026, vilket är en kommun med stora behov av i grunden förändrade arbetssätt, genom ökad social hälsa för alla medborgare, för att stötta och stärka ekonomin för att etablera en långsiktig hållbarhet av den kommunala servicen.
+- Per Högberg var kommunstyrelsens ordförande i Mullsjö 2023–2026, vilket är en kommun med stora behov av i grunden förändrade arbetssätt, genom ökad social hälsa för alla medborgare, för att stötta och stärka ekonomin för att etablera en långsiktig hållbarhet av den kommunala servicen.
 
-- Per Högberg är ledamot i Sveriges Kommuner och Regioners (SKR) beredning för kompetensförsörjning. I beredningens arbete har frågan om AI:s påverkan på kompetensförsörjningen diskuterats, och det har konstaterats att det saknas utredningar och beräkningar av den. Det är en av upprinnelserna till denna utredning (kapitel 1). Beredningen har tagit fram handlingsplanen *Kraftsamling för välfärdens kompetensförsörjning* (2024, K160), som utredningen hänvisar till i kapitel 1 och 11.2. Utredningen är inte beställd av SKR och uttrycker inte SKR:s eller beredningens uppfattning.
+- Per Högberg ingår i Sveriges Kommuner och Regioners (SKR) beredning för kompetensförsörjning. I beredningens arbete har frågan om AI:s påverkan på kompetensförsörjningen diskuterats, och det har konstaterats att det saknas utredningar och beräkningar av den. Det är en av upprinnelserna till denna utredning (kapitel 1). Beredningen har tagit fram handlingsplanen *Kraftsamling för välfärdens kompetensförsörjning* (2024, K160), som utredningen hänvisar till i kapitel 1 och 11.2. Utredningen är inte beställd av SKR och uttrycker inte SKR:s eller beredningens uppfattning.
 
 - Per är ledamot i styrelsen för SAPSA (SAP Svenska Användarförening) och representerar SAPSA i SUGEN (SAP UserGroup Executive Network) där företag runt om i världens strategiska användning av agentisk AI är ett fokusområde.
 
@@ -353,7 +421,7 @@ Varje värde i beräkningen märks efter var det kommer ifrån. Indelningen är 
 **Tabell 3.3 Märkning av värden**
 
 | **Märkning**  | **Betydelse**                                                                                                                    | **Exempel i utredningen**                          |
-|:--------------|:---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|:--------------|:---------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
 | \[Källa\]     | Värdet är hämtat direkt ur en källa i registret och används inom den period det gäller.                                          | Antal anställda 2024 (SCB), brist 2035 (AF)        |
 | \[Referens\]  | Empiriskt värde som inte gäller AI, till exempel en historisk elasticitet. Används bara för att visa hur känsligt resultatet är. | Efterfrågans priselasticitet −0,7 (Nordhaus, K131) |
 | \[Antagande\] | Utredarens bedömning, motiverad och redovisad. Alla effektnivåer för agentisk AI till 2035 är antaganden.                        | Procentsatserna i tabell 5.1                       |
@@ -643,7 +711,7 @@ Tabell 6.2 visar resultatet för hela arbetsmarknaden. Varje rad har en förklar
 
 **Figur 12.** Vart den frigjorda kapaciteten går i de tre scenarierna.
 
-*Källa: Egen beräkning (tabell 6.2).*
+*Källa: Egen beräkning (tabell 6.2). Summorna kan avvika med enstaka personer på grund av avrundning per yrkesgrupp.*
 
 Två mått på det som blir över redovisas. **Överskott nationellt** (261 000, 595 000, 921 000) antar att alla frigjorda kan flytta dit bristen finns. **Frigjorda i grupper utan kvarvarande brist** (309 000, 597 000, 921 000) antar att ingen flyttar. Skillnaden är störst i Låg, där en del av bristen kvarstår i vård och omsorg samtidigt som det finns ett överskott i andra yrken. Det är den kvarvarande bristen som gör omställning till en central fråga i Låg.
 
@@ -716,13 +784,13 @@ Huvudberäkningen räknar täckningen inom 46 yrkesgrupper (SSYK 2). Inom en så
 
 **Tabell 6.5** Samma antaganden, tre sätt att räkna täckningen (egen beräkning)
 
-<table style="width:98%;">
+<table style="width:99%;">
 <colgroup>
-<col style="width: 23%" />
+<col style="width: 24%" />
+<col style="width: 15%" />
 <col style="width: 14%" />
-<col style="width: 12%" />
-<col style="width: 23%" />
-<col style="width: 23%" />
+<col style="width: 16%" />
+<col style="width: 28%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -862,7 +930,7 @@ Ett högre antagande för vård och omsorg minskar den kvarvarande bristen i Lå
 
 Utredarens beslut är att behålla antagandet 10/20/25 %. De kontrollerade studierna av dokumentationsstöd ger stöd för en låg nivå, och effekten av analys och tidig upptäckt på personalbehovet är ännu inte mätt.
 
-**Två olika effekter i vården.** AI kan påverka vård och omsorg på två sätt, och bara det ena ingår i beräkningen. Det första är att samma vård kan utföras med mindre arbetsinsats, när dokumentation, planering och sammanställning sköts av AI. Det är den effekten som procentsatsen 10/20/25 % avser. Det andra är att själva behovet av vård kan minska, när insamlade värden analyseras löpande och försämring upptäcks tidigt (kapitel 3.2). Den effekten ingår inte, eftersom den inte går att räkna om till personal med dagens underlag. Utredningen beskriver alltså analysen som AI:s största kraft men räknar bara på den mindre delen. Om den andra effekten blir verklig är bristen i vård och omsorg mindre än AF:s beräkning, och utredningens resultat för vården försiktigt. Effekterna runt vårdbehovet beskrivs i den kommande utredningen PHU02, som tillsammans med denna utredning ska kunna ge ett mer samlat perspektiv.
+**Två olika effekter i vården.** AI kan påverka vård och omsorg på två sätt, och bara det ena ingår i beräkningen. Det första är att samma vård kan utföras med mindre arbetsinsats, när dokumentation, planering och sammanställning sköts av AI. Det är den effekten som procentsatsen 10/20/25 % avser. Det andra är att själva behovet av vård kan minska, när insamlade värden analyseras löpande och försämring upptäcks tidigt (kapitel 3.2). Den effekten ingår inte, eftersom den inte går att räkna om till personal med dagens underlag. Utredningen beskriver alltså analysen som AI:s största kraft men räknar bara på den mindre delen. Om den andra effekten blir verklig är bristen i vård och omsorg mindre än AF:s beräkning, och utredningens resultat för vården försiktigt. Effekterna runt vårdbehovet ingår inte i denna utredning och behöver utredas särskilt.
 
 <img src="https://perhogberg.se/phu01/rapport/media/image20.png" style="width:6.2in;height:2.53958in" />
 
@@ -1081,7 +1149,7 @@ Värdekedjan kan delas in i led (tabell 9.1). Det är viktigt att skilja dem åt
 **Tabell 9.1 AI:s värdekedja och var den finns i dag (förenklad översikt)**
 
 | **Led**                    | **Vad det är**                                                                   | **Var det finns i dag**                                                                                                                                                 |
-|:---------------------------|:---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:---------------------------|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 Energi                   | El till datacenter                                                               | Lokalt. Sverige har goda förutsättningar, men datacenter konkurrerar om el med annan industri (kapitel 9.6).                                                            |
 | 2 Chip                     | Konstruktion och tillverkning av AI-chip                                         | Konstruktionen av de ledande AI-chipen sker främst i USA (till exempel Nvidia, K143). Ett fåtal tillverkare står för produktionen.                                      |
 | 3 Datacenter och moln      | Beräkningskapacitet                                                              | Domineras av ett fåtal stora molnbolag i USA och Kina. Alphabet ensamt planerar investeringar på 175–185 miljarder dollar 2026 (K142).                                  |
