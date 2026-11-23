@@ -9,6 +9,10 @@ index.html                  Startsida (senaste utredningen framhävd)
 utredningar/index.html      Lista över alla PHU-utredningar
 phu01/index.html            Permanent adress för PHU01 (perhogberg.se/phu01)
 phu01/filer/                Nedladdningsbara PDF:er (endast PDF publiceras)
+phu01/rapport/              Hela rapporten som webbsida (svenska), byggs med pandoc
+phu01/report/               Hela rapporten som webbsida (engelska)
+phu01/*.md                  Textversioner för AI-verktyg
+llms.txt, sitemap.xml       Vägvisare för sökmotorer och AI-verktyg
 om/index.html               Om författaren, intressen och kontakt
 ai-program/index.html       AI-program (tom tills första publiceras)
 assets/style.css            Gemensam stilmall
