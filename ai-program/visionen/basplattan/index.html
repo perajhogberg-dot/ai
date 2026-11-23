@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Visionen · Basplattan · Per Högberg</title>
+<meta name="description" content="Den gemensamma grunden: informationsmodell och dataplattform, integration med kommunernas bassystem, styrning av data, juridik, etik och säkerhet, och en nationell arkitektur för AI.">
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/assets/style.css">
+<link rel="canonical" href="https://perhogberg.se/ai-program/visionen/basplattan/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Visionen · Basplattan · Per Högberg">
+<meta property="og:description" content="Den gemensamma grunden: informationsmodell och dataplattform, integration med kommunernas bassystem, styrning av data, juridik, etik och säkerhet, och en nationell arkitektur för AI.">
+<meta property="og:image" content="https://perhogberg.se/assets/img/og-phu01.png">
+<meta property="og:url" content="https://perhogberg.se/ai-program/visionen/basplattan/">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/"><img src="/assets/img/phu-mark.svg" alt="" width="40" height="40"><span class="brand-text"><span class="brand-name">PHU</span><span class="brand-sub">Analyser av Per Högberg</span></span></a>
+    <nav class="nav" aria-label="Huvudmeny"><a href="/utredningar/">Utredningar</a><a href="/ai-program/" class="active">AI-program</a><a href="/om/">Om</a></nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="breadcrumb"><a href="/">Start</a> / <a href="/ai-program/">AI-program</a> / <a href="/ai-program/visionen/">Visionen</a> / Basplattan</div>
+  <section style="padding:2rem 0 1rem" class="narrow">
+    <span class="kicker">Visionen · fördjupning</span>
+    <h1>Basplattan</h1>
+    <p class="lead">Den gemensamma grunden: informationsmodell och dataplattform, integration med kommunernas bassystem, styrning av data, juridik, etik och säkerhet, och en nationell arkitektur för AI.</p>
+    <p class="muted">Per Högberg · 2025-09-08 · version v01_2 · 5 sidor</p>
+    <div class="concept-note"><strong>Konceptuellt underlag 2025.</strong> Visionen beskriver vad som kan vara möjligt med agentisk AI i kommunal verksamhet – arkitektur, arbetssätt och avsedd nytta. Den beskriver inte införda system eller mätta effekter, och är inte evidens för något värde i utredningen PHU01.</div>
+    <h3>I korthet</h3>
+    <ul><li>En nationell gemensam infrastruktur, inte ett enskilt system</li><li>Gemensam informationsmodell och öppna API:er mot kommunernas bassystem</li><li>Likvärdig tillgång för små och stora kommuner</li><li>Grund för fördjupningarna inom administration, äldreomsorg och skola</li></ul>
+    <div class="actions">
+      <a class="btn primary" href="/ai-program/visionen/Visionen_fordjupning_Basplattan_v01_2.pdf">Ladda ner PDF</a>
+      <a class="btn" href="/ai-program/visionen/basplattan/basplattan.md">Textfil (Markdown)</a>
+      <a class="btn" href="/ai-program/visionen/">Alla delar av Visionen</a>
+    </div>
+  </section>
+  <section class="section">
+    <article class="report-body narrow">
+      <p class="note">Texten nedan är en webbversion av PDF:en, för läsning i webbläsare och AI-verktyg. PDF:en är originalet.</p>
+      <h1>Visionen – fördjupning Basplattan</h1>
+      <h2>Förord</h2>
+<p>Syftet med denna rapport är att ge en fördjupad beskrivning av Basplattan – den nationella gemensamma infrastruktur som utgör grunden för kommunsektorns AI-utveckling. Till skillnad från äldreomsorg, skola och administration handlar detta inte om en enskild verksamhet, utan om fundamentet som gör AI möjligt på ett säkert, hållbart och skalbart sätt i hela landet.</p>
+<h2>Sammanfattning</h2>
+<p>Basplattan är inte ett enskilt system, utan en kombination av:</p>
+<ul>
+<li>Gemensam informationsmodell och dataplattform,</li>
+<li>Integration med bassystemen i kommunerna,</li>
+<li>Governance för data, juridik, etik och säkerhet,</li>
+<li>Nationell arkitektur för AI och lärande system.</li>
+</ul>
+<p>Syftet är att göra det möjligt för alla kommuner, stora som små, att använda AI och digitala verktyg i vardagen – inte bara i projekt eller på strategisk nivå. Basplattan är också bryggan mot statens nya satsningar (AI-verkstad, AI-fabrik, AI-sandlåda, nationell data steward) och EU:s gemensamma digitala infrastruktur.</p>
+<h2>Inledning och bakgrund</h2>
+<ul>
+<li>Kommunerna står inför växande behov, krympande arbetskraft och ökade krav på kvalitet och tillgänglighet.</li>
+</ul>
+<p>AI-kommissionens färdplan (SOU 2024:18) och regeringens digitaliseringsstrategi (2025– 2030) betonar behovet av gemensamma datamodeller och infrastrukturer.</p>
+<p>Basplattan är därför ett fundament för långsiktig välfärdsutveckling.</p>
+<h2>Utgångspunkter</h2>
+<ul>
+<li>Homogen informationsmodell – används i det dagliga arbetet, inte bara som strategi.</li>
+<li>Integration med bassystemen – data lagras där de hör hemma, men tillgängliggörs via öppna API:er.</li>
+<li>Standardisering – gör det möjligt att dela lösningar och innovationer nationellt.</li>
+<li>Skalbarhet – små kommuner får samma tillgång som stora, utan orimliga kostnader.</li>
+<li>Juridik och säkerhet – Sovereign Cloud, GDPR, NIS2.</li>
+</ul>
+<h2>Systemarkitektur</h2>
+<p>Infrastruktur och säkerhet</p>
+<ul>
+<li>Sovereign Cloud enligt EU:s regelverk.</li>
+<li>Rollstyrd åtkomst och spårbarhet.</li>
+</ul>
+<p>Öppen arkitektur med API:er</p>
+<ul>
+<li>Modulär struktur som möjliggör innovation.</li>
+<li>Kopplingar till statliga och regionala system.</li>
+</ul>
+<p>Standardiserad datamodell</p>
+<ul>
+<li>Kommunernas gemensamma ”språk” för data.</li>
+<li>Byggt för både AI-träning och operativt stöd.</li>
+</ul>
+<p>AI-arkitektur</p>
+<ul>
+<li>Flera AI-modeller kan samexistera.</li>
+<li>Beslutsstöd för personal och ledning.</li>
+<li>Nationell anslutning till AI-verkstad och AI-fabrik.</li>
+</ul>
+<p>Agilt införande</p>
+<ul>
+<li>Basplattan byggs stegvis och lärande.</li>
+<li>Hackathon och innovationsverkstäder används för att skapa fart.</li>
+</ul>
+<h2>Funktioner och nyttor</h2>
+<p>Basplattan är fundamentet som gör det möjligt att skapa en homogen struktur för hela kommunoch regionsektorn. Genom standardisering och gemensamma datamodeller kan varje område av verksamheten bli mer effektivt, rättssäkert och interoperabelt. Detta ger stora vinster inom flera centrala processområden:</p>
+<p>Ekonomi och finans</p>
+<ul>
+<li>Gemensam finansstruktur för hela sektorn.</li>
+<li>Integration till den nya utbetalningsmyndigheten – minskar risk för välfärdsbrott.</li>
+<li>All rapportering till staten sker genom en gemensam integration.</li>
+<li>Datadelning sker via ett gemensamt statligt interface.</li>
+<li>Standardisering minskar kostnader och ökar kvalitet.</li>
+</ul>
+<p>HR och lön</p>
+<ul>
+<li>Resursdelning möjlig mellan kommuner och regioner.</li>
+<li>Enkelt för anställda att arbeta över gränser.</li>
+<li>AI-stödd schemaläggning och kapacitetsplanering.</li>
+<li>Nationella analyser av arbetskraftsbehov via SCB och SKR.</li>
+</ul>
+<p>Inköp och inköpsplanering</p>
+<ul>
+<li>Gemensamma upphandlingssystem för lokala, nationella och internationella leverantörer.</li>
+<li>Uppföljning av avtalstrohet och välfärdsbrottslighet.</li>
+<li>AI-stöd för analys av behov, prisutveckling och hållbarhet.</li>
+</ul>
+<p>Tillgångshantering</p>
+<ul>
+<li>Gemensam hantering av byggnader, mark, vägar och fordon.</li>
+<li>AI-kameror och IoT-sensorer kopplade till underhållsplanering.</li>
+<li>Samverkan i planering, underhåll och inköp.</li>
+</ul>
+<p>Planering</p>
+<ul>
+<li>Enhetliga planeringsmodeller oavsett sektor.</li>
+<li>Exempel: skolan planeras på samma sätt AI tekniskt som ett VA-projekt.</li>
+<li>Ekonomi, material och personal planeras integrerat.</li>
+</ul>
+<p>Dokument och ärende</p>
+<ul>
+<li>Gemensam informationsmodell för dokument.</li>
+<li>Metadata avgör användning och värde.</li>
+<li>Ärendehantering en naturlig del av basplattan.</li>
+</ul>
+<p>DIGG:s strukturer</p>
+<ul>
+<li>Bygger vidare på DIGG:s nationella datamodeller.</li>
+<li>Säkerställer nationell samordning och interoperabilitet.</li>
+</ul>
+<p>Handslagets funktioner</p>
+<ul>
+<li>Återanvänder etablerade strukturer.</li>
+<li>Bygger vidare på det som redan är etablerat i kommunsektorn.</li>
+</ul>
+<h2>Strategiska fördelar</h2>
+<ul>
+<li>Möjliggör både analys-AI och generativ AI genom homogena datamodeller.</li>
+<li>Kapacitetsutveckling – resurser frigörs från basprocesser och kan riktas mot innovation.</li>
+<li>Ökat samarbete – lösningar och personal kan delas mellan kommuner och regioner.</li>
+<li>Kostnadsbesparingar – minst 10 % effektivisering, motsvarande 120 000 färre rekryteringsbehov och cirka 55 miljarder kronor i besparingar, beräknat för hela SKR sektorn i jämförelse med internationella studier inom olika verksamheter och koncerner.</li>
+<li>Bättre beslutsfattande – AI-analyser ger såväl politiken som tjänstepersoner proaktiva beslutsunderlag i vardagen.</li>
+<li>Snabbare innovation – gemensamma processer gör att lösningar kan införas snabbare.</li>
+<li>Säkrad välfärd – avgörande för att klara framtidens personalbrist.</li>
+</ul>
+<h2>Relation till övriga arbetspaket</h2>
+<ul>
+<li>Basplattan är värdefull grund för paketen Äldreomsorg, Skola och Administration.</li>
+<li>Minskar risken för att varje område blir lokala öar.</li>
+<li>Gör att innovationer kan spridas nationellt, snabbt och säkert.</li>
+</ul>
+<h2>Samhällsnytta och långsiktig hållbarhet</h2>
+<ul>
+<li>Likvärdig tillgång för små och stora kommuner.</li>
+<li>Minskad administration och frigjord arbetskraft.</li>
+<li>Stärker Sveriges position inom offentlig AI.</li>
+<li>Bygger robusthet och förtroende i välfärden.</li>
+</ul>
+<h2>Slutsats och vägen framåt</h2>
+<p>Basplattan är en nationell gemensam infrastruktur. Den bör utvecklas i nära samverkan mellan SKR, kommunerna och staten. Det är fundamentet för att Sverige ska kunna möta välfärdsutmaningen med smartare arbetssätt i stället för att bara försöka arbeta snabbare.</p>
+    </article>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <span>PHU · Analyser av Per Högberg</span>
+    <span><a href="/om/#kontakt">Kontakt</a> · perhogberg.se</span>
+  </div>
+</footer>
+</body>
+</html>

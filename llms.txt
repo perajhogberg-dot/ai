@@ -11,6 +11,14 @@
 - [Full report, English (Markdown)](https://perhogberg.se/phu01/PHU01_v2.3_en.md): text version for AI tools
 - [PDF, svenska](https://perhogberg.se/phu01/filer/AI_paverkan_pa_arbetskraften_PHU01_v2.3_UTGIVEN.pdf): utgiven originalversion
 
+## AI-program
+
+- [Visionen – översikt](https://perhogberg.se/ai-program/visionen/): konceptuellt underlag om agentisk AI i kommunal verksamhet (2025)
+- [Basplattan (Markdown)](https://perhogberg.se/ai-program/visionen/basplattan/basplattan.md)
+- [Administration (Markdown)](https://perhogberg.se/ai-program/visionen/administration/administration.md)
+- [Äldreomsorg (Markdown)](https://perhogberg.se/ai-program/visionen/aldreomsorg/aldreomsorg.md)
+- [Skolan (Markdown)](https://perhogberg.se/ai-program/visionen/skolan/skolan.md)
+
 ## Om
 
 - [Om författaren](https://perhogberg.se/om/): bakgrund, uppdrag och redovisning av intressen
