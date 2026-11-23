@@ -1,32 +1,32 @@
-# ai
+# perhogberg.se — PHU · Analyser av Per Högberg
 
-Källkod för Per Högbergs bibliotek över utredningar och AI-program, publicerad via GitHub Pages.
+Statisk webbplats på GitHub Pages med egen domän (perhogberg.se). Ingen byggprocess: ren HTML och CSS.
 
 ## Struktur
 
 ```
-/index.html                          Startsida
-/utredningar/index.html              Lista över utredningar
-/utredningar/<slug>/index.html       En utrednings egen sida
-/utredningar/<slug>/filer/           Nedladdningsbara dokument (PDF/Word)
-/ai-program/index.html               Lista över AI-program
-/ai-program/<slug>/index.html        Ett programs egen sida (dokumentation eller körbar demo)
-/assets/style.css                    Delad stilmall för hela sajten
+index.html                  Startsida (senaste utredningen framhävd)
+utredningar/index.html      Lista över alla PHU-utredningar
+phu01/index.html            Permanent adress för PHU01 (perhogberg.se/phu01)
+phu01/filer/                Nedladdningsbara PDF:er (endast PDF publiceras)
+om/index.html               Om författaren, intressen och kontakt
+ai-program/index.html       AI-program (tom tills första publiceras)
+assets/style.css            Gemensam stilmall
+assets/fonts/               Fira Sans, självhostad (OFL-licens), inga anrop till Google
+assets/img/                 Märke (E, Avvikelsen), favicon, berättelsefält, delningsbilder
+utredningar/ai-paverkan-pa-arbetskraften/   Vidarebefordran till /phu01/
 ```
 
-## Lägga till en ny utredning
+## Grafiska regler
 
-1. Skapa `/utredningar/<ny-slug>/index.html` (kopiera strukturen från `ai-paverkan-pa-arbetskraften`).
-2. Lägg dokumenten i `/utredningar/<ny-slug>/filer/`.
-3. Lägg till ett kort i `/utredningar/index.html`.
+- Märke: E, Avvikelsen (rutnät där en punkt lämnat sin plats). Samma för alla rapporter.
+- Beskrivning: "Analyser av Per Högberg" / "Analysis by Per Högberg".
+- Fasta färger: navy #15213D, dimma #F2F6F8, bärnsten #C4701A (endast slutsatser), grå #5F6B7A.
+- Accentfärg per rapport: 01 turkos #00939A, 02 grön #4E8A5E, 03 plommon #6B5B95, 04 stålblå #3D6A9E.
+- Metodspråk (CSS-klasser .tag): fakta, berakning, antagande, scenario, slutsats.
 
-## Lägga till ett nytt AI-program
+## Lägga till en ny utredning (t.ex. PHU02)
 
-1. Skapa `/ai-program/<ny-slug>/index.html`.
-2. Om det är en körbar demo: bygg den som en fristående HTML/JS-sida i samma mapp.
-3. Lägg till ett kort i `/ai-program/index.html`.
-
-## Hosting
-
-Statisk sajt via GitHub Pages. Inget byggsteg — filerna serveras som de ligger i repot.
-Anpassad domän kopplas via en `CNAME`-fil i repots rot plus DNS-poster hos domänleverantören.
+1. Skapa `phu02/index.html` genom att kopiera `phu01/index.html`.
+2. Sätt `--accent` för sidan till rapportens färg och byt innehåll, filer och trovärdighetsblock.
+3. Lägg till ett kort i `utredningar/index.html` och uppdatera "Senaste utredningen" på startsidan.
